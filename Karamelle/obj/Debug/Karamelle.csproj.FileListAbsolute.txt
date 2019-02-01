@@ -1,0 +1,59 @@
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\bin\Debug\Karamelle.exe
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\bin\Debug\Karamelle.pdb
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.csprojResolveAssemblyReference.cache
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Cargo.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Inicio.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Login.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Pastel.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Personal.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Properties.Resources.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.csproj.GenerateResource.Cache
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.exe
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.pdb
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Opciones.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Cliente.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Insumo.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Tamaño.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\bin\Debug\GridExtension.dll
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\bin\Debug\GridExtension.pdb
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaIngredientes.resources
+C:\Users\paulo\documents\visual studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaInsumos.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaCliente.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaDecorador.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPastelero.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.Pedidos.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPastel.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPedidos.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.VerPedido.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ActualizarPedido.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListadoDecorador.resources
+C:\Users\paulo\Documents\Visual Studio 2012\Projects\Karamelle\Karamelle\obj\Debug\Karamelle.ListadoPastelero.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.exe
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.pdb
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\bin\Debug\Karamelle.exe
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\bin\Debug\Karamelle.pdb
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\bin\Debug\GridExtension.pdb
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ActualizarPedido.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Cargo.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Cliente.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Inicio.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Insumo.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaCliente.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaDecorador.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListadoDecorador.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListadoPastelero.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaIngredientes.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaInsumos.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPastel.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPastelero.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.ListaPedidos.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Login.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Opciones.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Pastel.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Pedidos.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Personal.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.Tamaño.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.VerPedido.resources
+C:\Users\ADMIN\Desktop\Karamelle\Karamelle\obj\Debug\Karamelle.csproj.GenerateResource.Cache
